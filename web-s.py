@@ -22,4 +22,4 @@ for a in soup.findAll('a',href=True, attrs={'class':'_31qSD5'}):
 
 
 df =  pd.DataFrame({'Product Name':products,'Price':prices,'Rating':ratings})
-df.to_csv('products.csv', index=False, encoding='utf-8')
+df.to_json('products.json')

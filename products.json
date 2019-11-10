@@ -1,0 +1,35 @@
+{
+  "Product Name": {
+    "0": "Apple MacBook Air Core i5 5th Gen - (8 GB/128 GB SSD/Mac OS Sierra) MQD32HN/A A1466",
+    "1": "HP Core i5 7th Gen - (8 GB/1 TB HDD/Windows 10 Home/4 GB Graphics) 15-au623tx Laptop",
+    "2": "Lenovo Core i3 6th Gen - (4 GB/1 TB HDD/Windows 10 Home) IP 320E Laptop",
+    "3": "Lenovo Core i5 7th Gen - (8 GB/2 TB HDD/Windows 10 Home/4 GB Graphics) IP 520 Laptop",
+    "4": "Lenovo APU Dual Core A9 6th Gen - (4 GB/1 TB HDD/Windows 10 Home) Yoga 510 2 in 1 Laptop",
+    "5": "Lenovo Core i7 6th Gen - (8 GB/1 TB HDD/DOS/2 GB Graphics) Ideapad 310 Laptop",
+    "6": "Lenovo Ideapad Core i3 6th Gen - (4 GB/1 TB HDD/DOS) IP 320E Laptop",
+    "7": "Lenovo Ideapad Core i5 7th Gen - (8 GB/1 TB HDD/Windows 10 Home/2 GB Graphics) IP 320-15IKB Laptop",
+    "8": "Lenovo Core i5 7th Gen - (8 GB/1 TB HDD/DOS/2 GB Graphics) IP 320-15IKB Laptop"
+  },
+  "Price": {
+    "0": "₹61,990₹84,90026% off",
+    "1": "₹63,854",
+    "2": "₹40,000",
+    "3": "₹54,990₹77,99029% off",
+    "4": "₹34,990₹40,76114% off",
+    "5": "₹48,990₹58,99016% off",
+    "6": "₹32,990₹35,0005% off",
+    "7": "₹52,990₹53,7451% off",
+    "8": "₹52,990₹54,0001% off"
+  },
+  "Rating": {
+    "0": "4.720,367 Ratings & 2,373 Reviews",
+    "1": "4.4294 Ratings & 50 Reviews",
+    "2": "42,601 Ratings & 457 Reviews",
+    "3": "4.4250 Ratings & 52 Reviews",
+    "4": "3.91,026 Ratings & 243 Reviews",
+    "5": "3.9165 Ratings & 51 Reviews",
+    "6": "4.16,232 Ratings & 1,080 Reviews",
+    "7": "4.313,072 Ratings & 2,599 Reviews",
+    "8": "4.313,072 Ratings & 2,599 Reviews"
+  }
+}
